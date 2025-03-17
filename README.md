@@ -13,6 +13,9 @@ WixView is essentially an HTML wrapper for Wix websites that removes the annoyin
 ## Setup
 Setting up WixView is as easy as 1, 2, 3! - just insert your Wix website inside the iFrame and upload it to your hosting provider! It's really that simple!
 
+## Downloads
+[You can download WixView from the Releases area!](https://github.com/ralzitech/wixview/releases)
+
 ## Special thanks to
 - Jibbosh (for finding the exploit in the first instance)
 
