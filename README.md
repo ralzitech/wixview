@@ -9,6 +9,8 @@ WixView is essentially an HTML wrapper for Wix websites that removes the annoyin
 
 ![WixView Preview](https://github.com/user-attachments/assets/696c6429-c301-4d23-b695-b221e15033ce)
 
+## Isnt that against Wix TOS though?
+As far as I'm concerned, no; iFrames are something that Wix allows both in and outside of its editor, so you don't need to worry about your site getting removed for using it!
 
 ## Setup
 Setting up WixView is as easy as 1, 2, 3! - just insert your Wix website inside the iFrame and upload it to your hosting provider! It's really that simple!
