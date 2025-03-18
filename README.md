@@ -2,7 +2,7 @@
 *Making Wix websites a breeze*
 
 ## What is WixView?
-WixView is essentially an HTML wrapper for Wix websites that removes the annoying "This website was created with Wix" banner. You can also redirect your own domains here with CNAME and DNS records too! 
+WixView is essentially an HTML wrapper for Wix websites that removes the annoying "This website was created with Wix" banner from the top of the screen. You can also redirect your own domains here with CNAME and DNS records too! 
 
 ## Does it really work?
 **[Yes, it does!](https://ralzitech.github.io)** - WixView works by setting the margin limit to a limit that Wix cannot render anymore, which as a result, removes the Wix banner! Here's an example:
