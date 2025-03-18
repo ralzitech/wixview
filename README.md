@@ -18,6 +18,9 @@ Setting up WixView is as easy as 1, 2, 3! - just insert your Wix website inside 
 ## Okay, I'm hooked. How do I get started?
 [You can download WixView from the Releases area!](https://github.com/ralzitech/wixview/releases)
 
+## Something isn't working as it should, what should I do?
+If something is not working as it should, feel free to open an issue! In your issue, please quote the website you are trying to use and the release of WixView
+
 ## Special thanks to
 - Jibbosh (for finding the exploit in the first instance)
 
