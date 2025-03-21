@@ -21,6 +21,9 @@ Setting up WixView is as easy as 1, 2, 3! - just insert your Wix website inside 
 ## Something isn't working as it should, what should I do?
 If something is not working as it should, feel free to open an issue! In your issue, please quote the website you are trying to use and the release of WixView
 
+## I want to contribute, how do I do it?
+There are a few ways in which you can contribute - you can fork the repo, submit issues that you experience, [and even suggest new features on my Discord server!](https://dsc.gg/ralzitech) 
+
 ## Special thanks to
 - Jibbosh (for finding the exploit in the first instance)
 
